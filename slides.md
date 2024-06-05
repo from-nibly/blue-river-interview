@@ -41,8 +41,8 @@
 
 # :telephone: Jive Comm. :telephone:
 
-- :fax: raspberry pi phone testing system
-- :minidisc: spin up postgres docker containers
+- :fax: Raspberry pi phone testing system
+- :minidisc: Spin up postgres docker containers
 
 ---v
 
@@ -71,7 +71,7 @@
 
 - :hatching_chick: Delivery Engineering
 - :boat: Ephemeral Developer Environments
-- :penguin: linux desktop
+- :penguin: Linux Desktop
 
 ---v
 
@@ -90,10 +90,10 @@
 
 ## Linux Desktop
 
-- Asked IT if I could install linux on my windows machine
-- Used linux for 2 years
-- Ended up getting linux approved as a desktop OS
-- Many devs switched to linux after that
+- Asked IT if I could install Linux on my windows machine
+- Used Linux for 2 years
+- Ended up getting Linux approved as a desktop OS
+- Many devs switched to Linux after that
 
 ---
 
@@ -277,7 +277,7 @@ current job
 # Quirks
 
 - :thought_balloon: I have ADHD
-- :penguin: I use a window manager on linux (bspwm)
+- :penguin: I use a window manager on Linux (bspwm)
 - :memo: I use vim
 - :wrench: I "built" my own keyboard
 - :speaker: I built my own speakers out of ceiling tiles
