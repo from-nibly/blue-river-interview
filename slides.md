@@ -1,16 +1,14 @@
 # Jordan Davidson
 
-TODO: headshot
-
 <div style="display: flex; justify-content: space-between">
-<img style="max-width: 50%" src="./media/family.png">
+  <img style="max-width: 50%" src="./media/family.png">
 
-<ul>
-<li><a href="https://resume.fromnibly.com">Website</a></li>
-<li><a href="https://github.com/from-nibly/">GitHub</a></li>
-<li><a href="https://www.linkedin.com/in/jordandavidson3102/">LinkedIn</a></li>
-<li><a href="mailto:jordan@davidson.house">jordan@davidson.house</a></li>
-</ul>
+  <ul>
+    <li><a href="https://resume.fromnibly.com">Website</a></li>
+    <li><a href="https://github.com/from-nibly/">GitHub</a></li>
+    <li><a href="https://www.linkedin.com/in/jordandavidson3102/">LinkedIn</a></li>
+    <li><a href="mailto:jordan@davidson.house">jordan@davidson.house</a></li>
+  </ul>
 </div>
 
 ---

@@ -6,10 +6,7 @@
   "license": "UNLICENSED",
   "private": true,
   "dependencies": {
-    "live-server": "^1.2.2",
-    "marked-emoji": "^1.4.0",
-    "reveal.js": "5.1.0",
-    "serve": "14.2.3"
+    "live-server": "^1.2.2"
   },
   "scripts": {
     "start": "node ./node_modules/.bin/live-server"
