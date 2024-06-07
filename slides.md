@@ -19,29 +19,29 @@
 
 # :hospital: Novarad :hospital:
 
-- :point_left: manual QA tester
-- :bulb: move to automation
-- :100: built first database test framework
+- :point_left: Manual QA tester
+- :bulb: Moved to automation
+- :100: Built first database test framework
 
 ---v
 
 ## Automation
 
-- used whatever the windows equivalent of selenium was
-- took screenshots and compared them to historical screenshots
-- automated similar screens together
+- Used whatever the Windows equivalent of Selenium was
+- Took screenshots and compared them to historical screenshots
+- Automated similar screens together
 
 ## Database Tests
 
 - Created the test framework for running database tests
-- This was during a switchover from mssql server to postgres
+- This was during a switchover from MSSQL server to Postgres
 - "Managed" a team that was writing the tests
 
 ---
 
 # :telephone: Jive Comm. :telephone:
 
-- :fax: Raspberry pi phone testing system
+- :fax: Raspberry Pi phone testing system
 - :minidisc: Spin up postgres docker containers
 
 ---v
@@ -56,7 +56,7 @@
 
 ## Raspberry Pis
 
-- Distributed cluster of raspberry pi's connected to physical phones
+- Distributed cluster of Raspberry Pi's connected to physical phones
 - Check out phones with bankers algorithm
 - Make a phone call from one to the other
   - Text to speech
@@ -90,7 +90,7 @@
 
 ## Linux Desktop
 
-- Asked IT if I could install Linux on my windows machine
+- Asked IT if I could install Linux on my Windows machine
 - Used Linux for 2 years
 - Ended up getting Linux approved as a desktop OS
 - Many devs switched to Linux after that
@@ -119,7 +119,7 @@
 - The first bug in the system
 - No one could figure it out
 - Was an initiation for new employees to try and fail to fix that bug
-- fixed it :shrug:
+- Fixed it :shrug:
 
 ---v
 
@@ -131,7 +131,7 @@
 
 ---
 
-# :gift: Go Give :gift:
+# :gift: GoGive :gift:
 
 - :dollar: Own Startup
 - :muscle: Full stack
@@ -227,7 +227,7 @@ current job
 - :baby: :baby: Married with 2 kids (5, and 18m)
 - :computer: Home Lab
 - :video_game: Video games when I can
-- :game_die: board games on Fridays
+- :game_die: Board games on Fridays
 - :octocat: Open Source Projects (optd)
 
 ---v
@@ -241,19 +241,19 @@ current job
 ## Home Lab
 
 - 3x Dell r720XD servers
-- k3s on nixos
-- rook/ceph for storage
-  - can yoink a hard drive with 0 down time
-- runs plex, nextcloud, kitchenowl, a blog, and a whole bunch of other stuff
-- cuelang based k8s automation with argocd
+- K3s on Nixos
+- Rook/Ceph for storage
+  - Can yoink a hard drive with 0 down time
+- Runs Plex, Nextcloud, Kitchenowl, a blog, and a whole bunch of other stuff
+- Cuelang based K8s automation with ArgoCD
 
 ---v
 
 ## Video Games
 
 - Currently playing through Oracle of Ages on an emulator device
-- I love satisfactory (it's just like the most interesting parts of programming)
-- Starting to play minecraft with my oldest kid
+- I love Satisfactory (it's just like the most interesting parts of programming)
+- Starting to play Minecraft with my oldest kid
 
 ---v
 
@@ -267,7 +267,7 @@ current job
 ## OptD
 
 - CMS for Platform Engineers
-- Written in nodejs, backed by postgres
+- Written in Node.js, backed by Postgres
 - Entity/Document Oriented
 - Use executable scripts to extend functionality with hooks etc
 - Long way to go but it's making progress
