@@ -1,7 +1,7 @@
 # Jordan Davidson
 
 <div style="display: flex; justify-content: space-between">
-  <img style="max-width: 50%" src="./media/family.png">
+  <img style="max-width: 50%" src="./media/headshot.jpg">
 
   <ul>
     <li><a href="https://resume.fromnibly.com">Website</a></li>
