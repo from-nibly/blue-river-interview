@@ -298,6 +298,11 @@ current job
 
 ---v
 
+> This slide show was made in reveal.js so I could use markdown instead of
+> dragging stuff in google slides.
+
+---v
+
 ```typescript
 let rootCause == null;
 let causes = [];
@@ -380,7 +385,8 @@ nap();
 - Kubernetes
 - React / Tailwind
 - Linux / Bash
-- Cuelang
+- Ansible / Terraform / Cuelang
+- AWS / GCP / Bare Metal
 
 ---v
 
@@ -389,7 +395,7 @@ nap();
 |           |                |               |              |
 | --------- | -------------- | ------------- | ------------ |
 | NuShell   | MaterialUI     | Bootstrap     | CSS          |
-| Terraform | HTML           | git           | Github       |
+| GitOps    | HTML           | git           | Github       |
 | BitBucket | GitHub Actions | Prometheus    | Grafana      |
 | Loki      | AlertManager   | Ops Genie     | Postgres     |
 | Jenkins   | Docker         | Dagger.io     | K3s          |
@@ -404,7 +410,7 @@ nap();
 | Direnv    | grep           | Bun.js        | vim          |
 | prettier  | Compilers      | DI/IOC        | Java         |
 | Scala     | Soldering      | Plumbing      | Making Lists |
-| PO/PM     | Google Docs    | Communication | Handshakes   |
+| PO/PM     | Google Docs    | Communication | CI/CD        |
 
 ---v
 
