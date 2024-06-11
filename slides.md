@@ -54,6 +54,8 @@
 - Took screenshots and compared them to historical screenshots
 - Automated similar screens together
 
+---v
+
 ## Database Tests
 
 - Created the test framework for running database tests
