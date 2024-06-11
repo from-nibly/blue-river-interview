@@ -13,6 +13,29 @@
 
 ---
 
+# Bonus Content Below
+
+:arrow_down:
+
+---v
+
+### You found the first bonus content
+
+:speak_no_evil:
+
+- First to post the full sequence of emojis at the end of each bonus content
+  gets a high five
+- There are 10 emojis in the sequence
+- Pasting the words instead of the emoji counts
+
+---v
+
+# Flashlight
+
+:flashlight:
+
+---
+
 # Work History
 
 ---
@@ -36,6 +59,12 @@
 - Created the test framework for running database tests
 - This was during a switchover from MSSQL server to Postgres
 - "Managed" a team that was writing the tests
+
+---v
+
+# Fax
+
+:fax:
 
 ---
 
@@ -64,6 +93,12 @@
   - Record audio on the other
   - Speech to text
   - Compare the text after the test is done
+
+---v
+
+# Crown
+
+:crown:
 
 ---
 
@@ -94,6 +129,12 @@
 - Used Linux for 2 years
 - Ended up getting Linux approved as a desktop OS
 - Many devs switched to Linux after that
+
+---v
+
+# Cherries
+
+:cherries:
 
 ---
 
@@ -129,6 +170,12 @@
 - Implemented a CI/CD pipeline on bitbucket
 - Started migration to kubernetes
 
+---v
+
+# Car
+
+:car:
+
 ---
 
 # :gift: GoGive :gift:
@@ -162,6 +209,12 @@
 - Had a :baby:
 - Ran out of :dollar:
 - Product didn't make sense
+
+---v
+
+# Recycle
+
+:recycle:
 
 ---
 
@@ -211,6 +264,12 @@ current job
 - Downtime reduced to negligible amounts
 - Business no longer complains about outages
 
+---v
+
+# White Check Mark
+
+:white_check_mark:
+
 ---
 
 # Passions
@@ -219,6 +278,39 @@ current job
 - Codification of Knowledge
 - Getting to the Root Cause
 - Solving Problems
+
+---v
+
+> When I was a little kid I strung a bunch of coolers together to make a train
+> so I could help my mom bring the groceries in from the car in one trip
+
+---v
+
+> There are chore lists all over the house, so I can help my wife without having
+> to bug her about what needs to be done or how to do it
+
+---v
+
+> I have reusable packing lists for trips so I don't forget anything. I can't
+> check it off until it's in the car.
+
+---v
+
+```typescript
+let rootCause == null;
+let causes = [];
+while (rootCause == null) {
+  causes = bangHeadAgainstWall();
+  rootCause = causes.find(cause => cause.parent == null);
+}
+nap();
+```
+
+---v
+
+# Panda Face
+
+:panda_face:
 
 ---
 
@@ -251,7 +343,7 @@ current job
 
 ## Video Games
 
-- Currently playing through Oracle of Ages on an emulator device
+- Currently playing through "The Legend of Dragoon" on an emulator device
 - I love Satisfactory (it's just like the most interesting parts of programming)
 - Starting to play Minecraft with my oldest kid
 
@@ -272,15 +364,61 @@ current job
 - Use executable scripts to extend functionality with hooks etc
 - Long way to go but it's making progress
 
+---v
+
+# Honey Bee
+
+:honeybee:
+
+---
+
+# Skills
+
+- Typescript / Python
+- Kubernetes
+- React / Tailwind
+- Linux / Bash
+- Cuelang
+
+---v
+
+# Skills (in no particular order)
+
+|           |                |               |              |
+| --------- | -------------- | ------------- | ------------ |
+| NuShell   | MaterialUI     | Bootstrap     | CSS          |
+| Terraform | HTML           | git           | Github       |
+| BitBucket | GitHub Actions | Prometheus    | Grafana      |
+| Loki      | AlertManager   | Ops Genie     | Postgres     |
+| Jenkins   | Docker         | Dagger.io     | K3s          |
+| Rook      | Ceph           | NixOS         | ArgoCD       |
+| Helm      | Kustomize      | Raspberry Pi  | websockets   |
+| REST      | Tilt           | Ruby          | Golang       |
+| Spring    | Electron       | Gulp          | Haproxy      |
+| Nginx     | OIDC           | Okta          | Auth0        |
+| JWT       | Certificates   | ELK           | Vim          |
+| Prolog    | ACME           | FluxCD        | Django       |
+| NestJS    | Testing        | GKE           | EKS          |
+| Direnv    | grep           | Bun.js        | vim          |
+| prettier  | Compilers      | DI/IOC        | Java         |
+| Scala     | Soldering      | Plumbing      | Making Lists |
+| PO/PM     | Google Docs    | Communication | Handshakes   |
+
+---v
+
+# Ocean
+
+:ocean:
+
 ---
 
 # Quirks
 
 - :thought_balloon: I have ADHD
-- :penguin: I use a window manager on Linux (bspwm)
+- :penguin: I use a tiling window manager on Linux
 - :memo: I use vim
 - :wrench: I "built" my own keyboard
-- :speaker: I built my own speakers out of ceiling tiles
+- :speaker: My speakers are made out of ceiling tiles
 
 ---
 
