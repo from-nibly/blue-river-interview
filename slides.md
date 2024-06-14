@@ -42,6 +42,8 @@
 
 # :hospital: Novarad :hospital:
 
+(Radiology Software)
+
 - :point_left: Manual QA tester
 - :bulb: Moved to automation
 - :100: Built first database test framework
@@ -71,6 +73,8 @@
 ---
 
 # :telephone: Jive Comm. :telephone:
+
+(SIP Provider)
 
 - :fax: Raspberry Pi phone testing system
 - :minidisc: Spin up postgres docker containers
@@ -105,6 +109,8 @@
 ---
 
 # :chart_with_upwards_trend: Domo :chart_with_upwards_trend:
+
+(BI Software)
 
 - :hatching_chick: Delivery Engineering
 - :boat: Ephemeral Developer Environments
@@ -141,6 +147,8 @@
 ---
 
 # :lock: Parakeet/Brivo :lock:
+
+(Smart locks for STR)
 
 - :hammer: Scrappy Developer environments
 - :bug: Jira PROJ-1 Bug
@@ -182,6 +190,8 @@
 
 # :gift: GoGive :gift:
 
+(Charitable Donations as a Gift)
+
 - :dollar: Own Startup
 - :muscle: Full stack
 - :sparkles: Design work
@@ -222,7 +232,7 @@
 
 # :dollar: TAB Bank :dollar:
 
-current job
+(It's a Bank)
 
 - :mag: Deep discovery
 - :package: Migrations
